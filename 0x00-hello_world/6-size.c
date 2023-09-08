@@ -14,5 +14,5 @@ printf("Size of float: %zu byte(s)", sizeof(float));
 printf("Size of double: %zu byte(s)", sizeof(double));
 printf("Size of long: %zu byte(s)", sizeof(long));
 printf("Size of long long: %zu byte(s)", sizeof(long long));
-return 0;
+return(0);
 }
