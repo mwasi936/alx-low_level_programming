@@ -8,6 +8,6 @@
 
 int main(void)
 {
-printf("with proper grammar, but the outcomeis a pace of art");
+printf("with proper grammar, but the outcome is a pace of art");
 return (0);
 }
