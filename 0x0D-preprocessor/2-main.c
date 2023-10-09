@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints name of the file it was copmiled from
- * Retturn: 0
+ * Return: 0
  */
 
 int main(void)
