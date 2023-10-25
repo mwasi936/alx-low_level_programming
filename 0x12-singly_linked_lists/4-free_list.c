@@ -2,7 +2,6 @@
 /**
  * free_list - frees a list
  * @head: head of node
- * Return: 0
  */
 
 void free_list(list_t *head)
