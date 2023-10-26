@@ -3,7 +3,7 @@
 /**
  * free_listint2 - frees list and sets head to NULL
  * @head: head of node
- * Return: null
+ * Return: NULL
  */
 
 void free_listint2(listint_t **head)
@@ -20,5 +20,4 @@ void free_listint2(listint_t **head)
 	}
 
 	*head = NULL;
-	return;
 }
