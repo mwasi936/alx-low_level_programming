@@ -2,7 +2,8 @@
 #include <stdarg.h>
 
 /**
- * @size_t letters: number of letters to be read and printed
+ * read_textfile - reads a file and prints it to the POSIX
+ * @size_t letters: number of letters to  read and print
  * @filename: filename
  * Return: actual number of letters it could read and print
  */
